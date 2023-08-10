@@ -1,0 +1,47 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#box1 {
+    background-color: grey;
+
+    text-align: center;
+
+}
+
+#box1 a {
+    color: white;
+    text-decoration: none;
+}
+
+#box2 h2 {
+    color: red;
+    text-align: center;
+}
+
+#box2 a {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+
+#box3 h2 {
+    font-weight: bold;
+}
+
+#box3 div {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    box-shadow: -webkit-box-shadow: 0px 1px 15px 5px #000000;
+    box-shadow: 0px 1px 15px 5px #000000;
+    margin: 8px
+}
+
+#box4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
